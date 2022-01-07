@@ -37,7 +37,7 @@ const saltyDuckEgg = "chinese preserved food product"
 
 
 A tree to brighten your day.
-![tree](https://applegate-paul.mo.cloudinary.net/gatsbyalgolia/https://storage.googleapis.com/cloudinarymedia/images/another-tree.jpg)
+![tree](https://applegate-paul.mo.cloudinary.net/https://storage.googleapis.com/cloudinarymedia/images/another-tree.jpg)
 
 
 This is a paragraph.
