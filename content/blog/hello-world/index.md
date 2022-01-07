@@ -35,6 +35,11 @@ const saltyDuckEgg = "chinese preserved food product"
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
+
+A tree to brighten your day.
+![tree](https://applegate-paul.mo.cloudinary.net/gatsbyalgolia/https://storage.googleapis.com/cloudinarymedia/images/another-tree.jpg)
+
+
 This is a paragraph.
 
     This is a paragraph.
