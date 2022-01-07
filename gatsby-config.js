@@ -1,13 +1,13 @@
 require("dotenv").config()
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Living Life`,
     author: {
-      name: `Kyle Mathews`,
+      name: `Paul Applegate`,
       summary: `who lives and works in San Francisco building useful things.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://gatsby.theapplegates.com/`,
     social: {
       twitter: `papplegate`,
 twitter: `papplegate`,
