@@ -10,7 +10,7 @@
   "dependencies": {
     "@styled-icons/fa-solid": "^10.34.0",
     "babel-plugin-styled-components": "^2.0.2",
-    "gatsby": "^4.5.4",
+    "gatsby": "^4.6.0",
     "gatsby-cli": "^4.5.2",
     "gatsby-plugin-algolia": "^0.25.0",
     "gatsby-plugin-feed": "^4.5.0",
