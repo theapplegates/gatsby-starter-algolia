@@ -234,3 +234,8 @@ This paragraph has some `code` in it.
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
     ![Alt Text](https://placehold.it/200x50 "Image Title")
+
+
+
+
+Just some text so. the Algolia index does not get deleted.
